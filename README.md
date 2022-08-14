@@ -1,3 +1,3 @@
 # ConnectivityObserver
 
-Observe the network connection state using ConnectivityManager with callbackFlow
+Observe the network connection state on Android using ConnectivityManager with callbackFlow
