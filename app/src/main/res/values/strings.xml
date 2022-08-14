@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Connectivity Observer</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="label_connection">Connection is %1$s</string>
+</resources>
